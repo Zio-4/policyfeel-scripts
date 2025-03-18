@@ -2,6 +2,10 @@ import { XMLParser } from 'fast-xml-parser';
 import fs from 'fs';
 import path from 'path';
 
+// Notes:
+// 1. Parse file by file (by directory) rather than loading all into memory. (Thousands of files)
+
+
 // Function to parse XML file and print as JS object
 function parseXMLFile(filePath: string): void {
   try {

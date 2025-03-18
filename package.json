@@ -4,7 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "parse-xml": "ts-node src/parse-bills-bulk-data.ts"
+    "parse-xml": "ts-node src/parse-bills-bulk-data.ts",
+    "transform-xml": "ts-node src/transform-xml.ts"
   },
   "keywords": [],
   "author": "",

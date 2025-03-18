@@ -1,0 +1,56 @@
+{
+  "resolution": {
+    "metadata": {
+      "dublinCore": {
+        "dc:title": "118 HCON 1 : Regarding consent to assemble outside the seat of government.",
+        "dc:publisher": "U.S. House of Representatives",
+        "dc:date": "2024-01-23",
+        "dc:format": "text/xml",
+        "dc:language": "EN",
+        "dc:rights": "Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain."
+      }
+    },
+    "form": {
+      "distributionCode": "III",
+      "congress": "118th CONGRESS",
+      "session": "1st Session",
+      "legisNum": "H. CON. RES. 1",
+      "currentChamber": "IN THE SENATE OF THE UNITED STATES",
+      "action": {
+        "actionDate": "January 23 (legislative day, January 3), 2023",
+        "date": "20240123",
+        "legisDay": "20240103",
+        "actionDesc": "Received"
+      },
+      "legisType": "CONCURRENT RESOLUTION",
+      "officialTitle": "Regarding consent to assemble outside the seat of government."
+    },
+    "resolutionBody": {
+      "section": {
+        "enum": "",
+        "text": "That pursuant to clause 4, section 5, article I of the Constitution, during the One Hundred Eighteenth Congress the Speaker of the House and the Majority Leader of the Senate or their respective designees, acting jointly after consultation with the Minority Leader of the House and the Minority Leader of the Senate,may notify the Members of the House and the Senate, respectively, to assemble at a place outside the District of Columbia if, in their opinion, the public interest shall warrant it.",
+        "displayInline": "yes-display-inline",
+        "sectionType": "undesignated-section",
+        "id": "HD35942D7F4DA4E2FB5544E441D7CB0C1"
+      },
+      "style": "traditional",
+      "id": "H25DD3F6B1555417392EA857CA4EBA5FA"
+    },
+    "attestation": {
+      "attestationGroup": {
+        "attestationDate": "Passed the House of Representatives January 9, 2023.",
+        "date": "20230109",
+        "chamber": "House",
+        "attestor": "Cheryl L. Johnson,",
+        "role": "Clerk."
+      }
+    },
+    "dmsId": "HE4BA0498C57A4D1E96501A104E9A38D1",
+    "publicPrivate": "public",
+    "resolutionStage": "Received-in-Senate",
+    "resolutionType": "house-concurrent",
+    "starPrint": "no-star-print",
+    "key": "G",
+    "stageCount": "1"
+  }
+}
